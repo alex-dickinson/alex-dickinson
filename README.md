@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alex-dickinson-phd-b6a10082" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/alex-dickinson-phd-b6a10082?trk=profile-badge">Alex Dickinson, PhD</a></div>
+              
