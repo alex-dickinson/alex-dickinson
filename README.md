@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 I'm a data scientist with knowledge of several scientific fields. I build computational tools, focusing on oceanography & renewable energy. I have a PhD in geophysics, I like to write, and I love working with others.
 
-For details of my scientific work, see my profiles on ResearchGate and [Google Scholar](https://scholar.google.com/citations?user=Aujv9qYAAAAJ&hl=en)
+For details of my scientific work, see my profiles on [ResearchGate](https://www.researchgate.net/profile/Alex-Dickinson) and [Google Scholar](https://scholar.google.com/citations?user=Aujv9qYAAAAJ&hl=en).
+
+<!-- You can find my full CV [here](addnotionlink). -->
 
 
 
