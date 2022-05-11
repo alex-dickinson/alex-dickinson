@@ -16,8 +16,8 @@ For details of my scientific work, see my profiles on [ResearchGate](https://www
 
 #### Education
  
-:mortar_board: PhD in Geophysics and Physical Oceanography @ University of Cambridge \
-:mortar_board: MSci and BA in Natural Sciences (Physics) @ University of Cambridge
+:mortar_board: PhD in Geophysics and Physical Oceanography @ [University of Cambridge](https://www.esc.cam.ac.uk/) \
+:mortar_board: MSci and BA in Natural Sciences (Physics) @ [University of Cambridge](https://www.esc.cam.ac.uk/)
 
 #### Interests
 
