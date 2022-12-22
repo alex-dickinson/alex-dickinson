@@ -1,4 +1,4 @@
-I'm a data scientist with knowledge of a broad range of scientific fields. I currently work at the Ministry of Justice as an advisor on improving modelling and analysis of government datasets. I previously worked as a research scientist, focussing on geophysical sensing, geothermal energy and physical oceanography. 
+I'm a data scientist with knowledge of a broad range of scientific fields. I currently work at the Ministry of Justice, where I provide advice on improving modelling and analysis of government datasets. I previously worked as a research scientist, focussing on geophysical sensing, geothermal energy and physical oceanography. 
 
 For details of my scientific work, see my profiles on [ResearchGate](https://www.researchgate.net/profile/Alex-Dickinson) and [Google Scholar](https://scholar.google.com/citations?user=Aujv9qYAAAAJ&hl=en). For my career history, see my [LinkedIn](https://www.linkedin.com/in/alex-dickinson-phd/) profile.
 
